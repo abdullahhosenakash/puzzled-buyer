@@ -1,0 +1,36 @@
+.cart{
+    position: sticky;
+    top: 20px;
+    border-radius: 20px;
+    border: 10px solid #3f8aec;
+    width: 100%;
+    padding: 10px;
+}
+.cart h2{
+    text-decoration: underline;
+}
+.choose-button, .remove{
+    display: block;
+    width: 70%;
+    height: 40px;
+    margin: 5px;
+    font-weight: 700;
+    font-size: large;
+}
+.choose-button{
+    color: green;
+}
+.remove{
+    color: red;
+}
+
+@media screen and (max-width: 992px) {
+    .cart{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        height: 50%;
+        width: 80%;
+        padding: 10px;
+        margin-left: 15px;
+    }
+}

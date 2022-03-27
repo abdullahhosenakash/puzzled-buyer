@@ -1,0 +1,19 @@
+.selected-product{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: 20px;
+}
+.selected-product img{
+    width: 60px;
+}
+.selected-product .name{
+    margin-left: 10px;
+}
+.delete-icon{
+    position: absolute;
+    margin-left: 30px;
+    font-size: 25px;
+    right: 20px;
+    cursor: pointer;
+}

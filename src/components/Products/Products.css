@@ -1,0 +1,19 @@
+.products-and-cart-container{
+    display: flex;
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+@media screen and (max-width: 992px) {
+    .products{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .products-and-cart-container{
+        display: block;
+    }
+}

@@ -1,0 +1,12 @@
+.footer{
+    text-align: center;
+    margin: 100px 40px 100px 40px;
+}
+.footer h3{
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.footer p{
+    font-size: large;
+    text-align: justify;
+}
