@@ -1,6 +1,6 @@
 # Puzzled Buyer
 
-This is a project of a puzzled buyer who confused while buying sunglass. [Puzzled Buyer](https://github.com/facebook/create-react-app).
+This is a project of a puzzled buyer who confused while buying sunglass. [Puzzled Buyer](https://puzzled-buyer.web.app)
 
 ## Short Description
 
